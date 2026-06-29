@@ -1,9 +1,9 @@
 # NPS
 
-Esse projeto visa entender como variáveis operacionais afetam o NPS, de modo a ajudar a melhorar seus processos e experiência dos clientes
+Esse projeto visa entender como variáveis operacionais afetam o NPS de uma empresa, de modo a ajudar a melhorar seus processos e experiência dos clientes
 
 ## 📊 Visão Geral
-Dados foram analisados através da base contida em arquivo csv e analisados com auxílio de bibliotecas de manipulação de dados.
+Dados foram coletados através da base contida em arquivo csv e analisados com auxílio de bibliotecas de manipulação de dados.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 * **Linguagem:** Python 3.x
@@ -37,5 +37,5 @@ Caso prefira rodar no seu próprio ambiente local (Jupyter Notebook):
    git clone https://github.com/JessCordeiro/NPS.git
 
 ## 💡 Principais Insights e Conclusões
-Como resultado pode-se perceber que fatores como dias de atraso na entrega, número de reclamações e contatos do cliente estão fortemente correlacionados.
+Como resultado pode-se perceber que fatores como dias de atraso na entrega, número de reclamações e contatos do cliente estão fortemente correlacionados com o NPS.
 
