@@ -15,8 +15,8 @@ Dados foram analisados através da base contida em arquivo csv e analisados com 
   * `pearsonr` (Correlação de Pearson)
 
 ## 📁 Estrutura do Repositório
-* `dados/`: Contém os arquivos `.csv`.
-* `notebooks/`: Onde está o arquivo `.ipynb` com a análise passo a passo.
+* `desafio_nps_fase_1`: É o arquivo `.csv`.
+* `NPS`: É o arquivo `.ipynb` com a análise passo a passo.
 * `README.md`: Este arquivo de documentação.
 
 ## 🚀 Como Executar o Projeto
